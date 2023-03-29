@@ -1,0 +1,7 @@
+Toy [id=0, name=Darth_Vader, weight=68.0]
+Toy [id=5, name=Soft_cat, weight=82.0]
+Toy [id=6, name=Lego, weight=75.0]
+Toy [id=2, name=Decepticons, weight=49.0]
+Toy [id=4, name=Darth_Sidious, weight=95.0]
+Toy [id=3, name=Avtobots, weight=65.0]
+Toy [id=1, name=Sauron, weight=91.0]
